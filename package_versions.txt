@@ -79,7 +79,7 @@ github.com/dhowden/tag                v0.0.0-20240417053706-3d75831295e8        
 github.com/dustin/go-humanize         v1.0.1                                       go-module                   
 github.com/google/uuid                v1.6.0                                       go-module                   
 github.com/kodestar/audiosilo-meta    v0.21.0                                      go-module                   
-github.com/kodestar/audiosilo-server  v1.17.5-0.20261014102635-c2a4051a2236+dirty  go-module                   
+github.com/kodestar/audiosilo-server  v1.17.5-0.20261014175704-d264205d7ff5+dirty  go-module                   
 github.com/remyoudompheng/bigfft      v0.0.0-20230129092748-24d4a6f8daec           go-module                   
 github.com/skip2/go-qrcode            v0.0.0-20200617195104-da1b6568686e           go-module                   
 glib                                  2.88.1-r1                                    apk                         
