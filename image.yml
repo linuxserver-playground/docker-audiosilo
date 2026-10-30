@@ -16,6 +16,9 @@ upstream:
   notes:
     type: github_release
     repo: KodeStar/audiosilo-server
+  sponsor:
+  - name: AudioSilo (GitHub Sponsors)
+    url: https://github.com/sponsors/KodeStar
 
 release:
   branch: main
