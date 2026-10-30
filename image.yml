@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: KodeStar/audiosilo-server
+    require_assets:
+      - asset: '^audiosilo_.*_linux_amd64\.tar\.gz$'
+      - asset: '^audiosilo_.*_linux_arm64\.tar\.gz$'
   notes:
     type: github_release
     repo: KodeStar/audiosilo-server
